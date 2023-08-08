@@ -1,0 +1,27 @@
+body {
+  font-family: "lato", sans-serif;
+}
+
+#sitesContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+li {
+  padding: 10px;
+  background-color: #f0f0f0;
+  cursor: pointer;
+  list-style-type: none;
+}
+
+li:hover {
+  background-color: #e0e0e0;
+}
+
+h3 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
