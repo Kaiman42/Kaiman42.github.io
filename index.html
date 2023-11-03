@@ -22,12 +22,18 @@
     </div>
   </main>
 
-  <!--
-    <form>
+<!--     <form>
     <input type="text" placeholder="Pesquisar por sites...">
     <button type="submit">Pesquisar</button>  
-  </form>
--->
+  </form> -->
+
+  <ul>
+    <li><a href="#" onclick="filtrar('A')">A</a></li>
+    <li><a href="#" onclick="filtrar('B')">B</a></li>
+    <li><a href="#" onclick="filtrar('C')">C</a></li>
+    <!-- e assim por diante até a letra Z -->
+  </ul>
+
   <script>
    fetch('sites.json')
 .then(response => response.json())
