@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Minha coleção de sites para diversas utilidades</title>
+  <title>Minha coleção de sites</title>
 
   <link href="style.css" rel="stylesheet" type="text/css" media="all">
 
@@ -12,75 +12,24 @@
 
 <body>
 
-  <header>
-    <h1>Minha coleção de sites</h1>
-  </header>
+  <div class="header">
+    <button id="closeBtn"></button>
+    <form>
+      <input type="text" id="searchInput" placeholder="Pesquise aqui...">
+    </form>
+  </div>
 
   <main>
+    
+    <script src="app.js"></script>
+
     <div id="sitesContainer">
       <ul id="sitesList"></ul>
     </div>
+    
   </main>
 
-<!--     <form>
-    <input type="text" placeholder="Pesquisar por sites...">
-    <button type="submit">Pesquisar</button>  
-  </form> -->
-
-  <ul>
-    <li><a href="#" onclick="filtrar('A')">A</a></li>
-    <li><a href="#" onclick="filtrar('B')">B</a></li>
-    <li><a href="#" onclick="filtrar('C')">C</a></li>
-    <!-- e assim por diante até a letra Z -->
-  </ul>
-
-  <script>
-   fetch('sites.json')
-.then(response => response.json())
-.then(data => {
-
-  const sites = data;
-
-  sites.sort((a, b) => {
-    const siteA = a.name.toUpperCase();
-    const siteB = b.name.toUpperCase();
-
-    if (siteA < siteB) {
-      return -1;
-    }
-
-    if (siteA > siteB) {
-      return 1; 
-    }
-
-    return 0;
-  });
-
-  const sitesContainer = document.getElementById('sitesContainer');
-  const sitesList = document.getElementById('sitesList');
-
-  sites.forEach(site => {
-    
-    const listItem = document.createElement('li');
-
-    listItem.innerHTML = `
-      <h3>${site.name}</h3>
-      <p>${site.desc}</p>
-    `;
-
-    listItem.addEventListener('click', function() {
-      window.location.href = site.url; 
-    });
-    
-    sitesList.appendChild(listItem);
-
-  });
-
-})
-.catch(error => {
-  console.error(error);
-});
-  </script>
 
 </body>
+
 </html>
