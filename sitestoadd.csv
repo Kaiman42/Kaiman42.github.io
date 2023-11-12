@@ -1,50 +1,29 @@
-Archive,https://archive.org/,Repositório online que oferece acesso gratuito a uma ampla variedade de materiais digitais. Inclui a Wayback Machine para visualizar versões arquivadas de sites.
-Storyset,https://storyset.com/,Banco de imagens e ilustrações gratuitas para uso em projetos criativos.
-Undraw,https://undraw.co/,Banco de ilustrações vetoriais gratuitas para uso em projetos criativos.
-Atlas Obscura,https://www.atlasobscura.com/,Guia de viagens curiosas e maravilhas ao redor do mundo.
-OnlineOCR,https://www.onlineocr.net/,Ferramenta OCR gratuita que converte imagens e PDFs em texto editável.
-This To That,https://www.thistothat.com/,Encontre a melhor cola para diferentes materiais.
-DeepSea,https://neal.fun/deep-sea/,Uma página interativa que permite explorar as profundezas do mar.
-Desmos,https://www.desmos.com/,Plataforma online interativa de matemática e calculadora gráfica.
-UiButtons,https://ui-buttons.web.app/,Uma coleção de botões de interface elegantes e personalizáveis.
-SVG Backgrounds,https://www.svgbackgrounds.com/,Coleção de fundos SVG personalizáveis para uso em projetos.
-FontJoy,https://fontjoy.com/,Descubra combinações de fontes elegantes e harmoniosas para seus projetos.
-VideoCopilot,https://www.videocopilot.net/,Site com tutoriais e recursos para motion graphics e efeitos visuais em vídeos.
-MotionArray,https://motionarray.com/,Site que oferece uma ampla variedade de recursos para motion graphics desde templates e plugins a trilhas sonoras.
-
-
-
-
-
-
-
-
-
-
-Unsplash,https://unsplash.com/,Banco gratuito de imagens de alta resolução.
-Fotor,https://www.fotor.com/,Editor de imagens e designer gráfico online.
-WhiteboardFox,https://whiteboardfox.com/,Quadro branco colaborativo em tempo real.
-HubSpot,https://www.hubspot.com/,Plataforma de inbound marketing e vendas.
-Canva,https://www.canva.com/,Ferramenta de design gráfico online.
-Thingiverse,https://www.thingiverse.com/,Comunidade de compartilhamento de modelos 3D.
-CodeCademy,https://www.codecademy.com/,Plataforma de aprendizado interativo de codificação.
-Quizlet,https://quizlet.com/,Ferramenta de estudo com flashcards e jogos.
-Bubbl.us,https://bubbl.us/,Software online para criação de mapas mentais.
-TED,https://www.ted.com/,Plataforma de vídeos educativos e inspiradores.
-Duolingo,https://www.duolingo.com/,Aplicativo de aprendizado de idiomas gratuito e divertido.
-Coursera,https://www.coursera.org/,Plataforma de cursos online de diversas universidades e instituições.
-Medium,https://medium.com/,Plataforma de publicação e leitura de textos sobre diversos temas.
-Spotify,https://www.spotify.com/,Serviço de streaming de músicas e podcasts.
-Pixlr,https://pixlr.com/,Editor de fotos online e gratuito.
-Khan Academy,https://www.khanacademy.org/,Organização sem fins lucrativos que oferece aulas gratuitas de matemática, ciências e outras disciplinas.
-Grammarly,https://www.grammarly.com/,Ferramenta de revisão e correção de textos em inglês.
-
-
-
-
-
-
-
-
-
-
+name,url,desc
+Freesound,https://freesound.org/,Um site que oferece uma vasta coleção de sons gratuitos.
+Sampleswap,https://sampleswap.org/,Um site que oferece amostras de áudio gratuitas.
+Fiftysounds,https://www.fiftysounds.com/,Um site que oferece 50 sons básicos do japonês.
+V3rmillion,https://v3rmillion.net/,Um fórum dedicado a exploração de jogos.
+Wearedevs,https://wearedevs.net/,Um site que oferece ferramentas para desenvolvedores de jogos.
+Worldometers,https://www.worldometers.info/br/,Um site que oferece estatísticas mundiais em tempo real.
+Picpaw,https://www.picpaw.com/,Um site que oferece imagens gratuitas de alta qualidade.
+Yandex,https://translate.yandex.com/en/ocr,Um site que oferece um serviço de tradução de texto em imagens.
+Artguru,https://www.artguru.ai/pt/,Um site que oferece um serviço de reconhecimento de arte.
+Workintool,https://www.workintool.com/pt/,Um site que oferece ferramentas para o trabalho remoto.
+Google Books,https://books.google.com.br/, Um serviço do Google que procura textos completos de livros e revistas que o Google digitalizou.
+Project Gutenberg,https://www.gutenberg.org/,Um site que oferece mais de 60.000 livros eletrônicos gratuitos.
+Cultura Acadêmica,https://www.culturaacademica.com.br/,Uma editora que oferece livros acadêmicos gratuitos.
+Openlibrary,https://openlibrary.org/,Um site que oferece um catálogo de livros acessível ao público.
+Biblioteca Digital de Obras Raras,https://obrasraras.usp.br/,Um site que oferece acesso a obras raras digitalizadas.
+Biblioteca Brasiliana,https://www.brasiliana.usp.br/,Uma biblioteca que oferece acesso a obras sobre o Brasil.
+Book Translator,https://www.booktranslator.app/pt-BR/translate,Um site que oferece um serviço de tradução de livros.
+Emugames,https://www.emugames.net/,Um site que oferece jogos de emulador para download.
+Speedtest,https://www.speedtest.net/,Um site que oferece um serviço de teste de velocidade de internet.
+Smodin,https://smodin.io/,Um site que oferece um serviço de reescrita de texto.
+Quillbot,https://quillbot.com/,Um site que oferece um serviço de paráfrase de texto.
+Similarweb,https://www.similarweb.com/,Um site que oferece análises de tráfego de sites.
+PC Builds,https://pc-builds.com/pt/,Um site que oferece recomendações de construção de PC.
+Raymarching Engine,https://raymarching-engine.netlify.app/, Um site que oferece um motor de renderização de gráficos.
+Steam Friends,https://steamfriends.info/,Um site que oferece um serviço de busca de amigos no Steam.
+Aniwave,https://aniwave.to/,Um site que oferece streaming de animes.
+Cgbookcase,https://www.cgbookcase.com/,Um site que oferece texturas gratuitas para artistas 3D.
+OpenGameArt,https://opengameart.org/,Um site que oferece arte de jogos gratuitos.

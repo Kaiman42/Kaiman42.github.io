@@ -408,5 +408,295 @@
     "name": "WolframAlpha",
     "url": "https://www.wolframalpha.com/",
     "desc": "Calculadora de tudo."
+  },
+  {
+    "name": "Archive",
+    "url": "https://archive.org/",
+    "desc": "Repositório online que oferece acesso gratuito a uma ampla variedade de materiais digitais. Inclui a Wayback Machine para visualizar versões arquivadas de sites."
+  },
+  {
+    "name": "Storyset",
+    "url": "https://storyset.com/",
+    "desc": "Banco de imagens e ilustrações gratuitas para uso em projetos criativos."
+  },
+  {
+    "name": "Undraw",
+    "url": "https://undraw.co/",
+    "desc": "Banco de ilustrações vetoriais gratuitas para uso em projetos criativos."
+  },
+  {
+    "name": "Atlas Obscura",
+    "url": "https://www.atlasobscura.com/",
+    "desc": "Guia de viagens curiosas e maravilhas ao redor do mundo."
+  },
+  {
+    "name": "OnlineOCR",
+    "url": "https://www.onlineocr.net/",
+    "desc": "Ferramenta OCR gratuita que converte imagens e PDFs em texto editável."
+  },
+  {
+    "name": "This To That",
+    "url": "https://www.thistothat.com/",
+    "desc": "Encontre a melhor cola para diferentes materiais."
+  },
+  {
+    "name": "DeepSea",
+    "url": "https://neal.fun/deep-sea/",
+    "desc": "Uma página interativa que permite explorar as profundezas do mar."
+  },
+  {
+    "name": "Desmos",
+    "url": "https://www.desmos.com/",
+    "desc": "Plataforma online interativa de matemática e calculadora gráfica."
+  },
+  {
+    "name": "UiButtons",
+    "url": "https://ui-buttons.web.app/",
+    "desc": "Uma coleção de botões de interface elegantes e personalizáveis."
+  },
+  {
+    "name": "SVG Backgrounds",
+    "url": "https://www.svgbackgrounds.com/",
+    "desc": "Coleção de fundos SVG personalizáveis para uso em projetos."
+  },
+  {
+    "name": "FontJoy",
+    "url": "https://fontjoy.com/",
+    "desc": "Descubra combinações de fontes elegantes e harmoniosas para seus projetos."
+  },
+  {
+    "name": "VideoCopilot",
+    "url": "https://www.videocopilot.net/",
+    "desc": "Site com tutoriais e recursos para motion graphics e efeitos visuais em vídeos."
+  },
+  {
+    "name": "MotionArray",
+    "url": "https://motionarray.com/",
+    "desc": "Site que oferece uma ampla variedade de recursos para motion graphics desde templates e plugins a trilhas sonoras."
+  },
+  {
+    "name": "Unsplash",
+    "url": "https://unsplash.com/",
+    "desc": "Banco gratuito de imagens de alta resolução."
+  },
+  {
+    "name": "Fotor",
+    "url": "https://www.fotor.com/",
+    "desc": "Editor de imagens e designer gráfico online."
+  },
+  {
+    "name": "WhiteboardFox",
+    "url": "https://whiteboardfox.com/",
+    "desc": "Quadro branco colaborativo em tempo real."
+  },
+  {
+    "name": "HubSpot",
+    "url": "https://www.hubspot.com/",
+    "desc": "Plataforma de inbound marketing e vendas."
+  },
+  {
+    "name": "Canva",
+    "url": "https://www.canva.com/",
+    "desc": "Ferramenta de design gráfico online."
+  },
+  {
+    "name": "Thingiverse",
+    "url": "https://www.thingiverse.com/",
+    "desc": "Comunidade de compartilhamento de modelos 3D."
+  },
+  {
+    "name": "CodeCademy",
+    "url": "https://www.codecademy.com/",
+    "desc": "Plataforma de aprendizado interativo de codificação."
+  },
+  {
+    "name": "Quizlet",
+    "url": "https://quizlet.com/",
+    "desc": "Ferramenta de estudo com flashcards e jogos."
+  },
+  {
+    "name": "Bubbl.us",
+    "url": "https://bubbl.us/",
+    "desc": "Software online para criação de mapas mentais."
+  },
+  {
+    "name": "TED",
+    "url": "https://www.ted.com/",
+    "desc": "Plataforma de vídeos educativos e inspiradores."
+  },
+  {
+    "name": "Duolingo",
+    "url": "https://www.duolingo.com/",
+    "desc": "Aplicativo de aprendizado de idiomas gratuito e divertido."
+  },
+  {
+    "name": "Coursera",
+    "url": "https://www.coursera.org/",
+    "desc": "Plataforma de cursos online de diversas universidades e instituições."
+  },
+  {
+    "name": "Medium",
+    "url": "https://medium.com/",
+    "desc": "Plataforma de publicação e leitura de textos sobre diversos temas."
+  },
+  {
+    "name": "Spotify",
+    "url": "https://www.spotify.com/",
+    "desc": "Serviço de streaming de músicas e podcasts."
+  },
+  {
+    "name": "Pixlr",
+    "url": "https://pixlr.com/",
+    "desc": "Editor de fotos online e gratuito."
+  },
+  {
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org/",
+    "desc": "Organização sem fins lucrativos que oferece aulas gratuitas de matemática e outras disciplinas."
+  },
+  {
+    "name": "Grammarly",
+    "url": "https://www.grammarly.com/",
+    "desc": "Ferramenta de revisão e correção de textos em inglês."
+  },
+  {
+    "name": "Freesound",
+    "url": "https://freesound.org/",
+    "desc": "Um site que oferece uma vasta coleção de sons gratuitos."
+  },
+  {
+    "name": "Sampleswap",
+    "url": "https://sampleswap.org/",
+    "desc": "Um site que oferece amostras de áudio gratuitas."
+  },
+  {
+    "name": "Fiftysounds",
+    "url": "https://www.fiftysounds.com/",
+    "desc": "Um site que oferece 50 sons básicos do japonês."
+  },
+  {
+    "name": "V3rmillion",
+    "url": "https://v3rmillion.net/",
+    "desc": "Um fórum dedicado a exploração de jogos."
+  },
+  {
+    "name": "Wearedevs",
+    "url": "https://wearedevs.net/",
+    "desc": "Um site que oferece ferramentas para desenvolvedores de jogos."
+  },
+  {
+    "name": "Worldometers",
+    "url": "https://www.worldometers.info/br/",
+    "desc": "Um site que oferece estatísticas mundiais em tempo real."
+  },
+  {
+    "name": "Picpaw",
+    "url": "https://www.picpaw.com/",
+    "desc": "Um site que oferece imagens gratuitas de alta qualidade."
+  },
+  {
+    "name": "Yandex",
+    "url": "https://translate.yandex.com/en/ocr",
+    "desc": "Um site que oferece um serviço de tradução de texto em imagens."
+  },
+  {
+    "name": "Artguru",
+    "url": "https://www.artguru.ai/pt/",
+    "desc": "Um site que oferece um serviço de reconhecimento de arte."
+  },
+  {
+    "name": "Workintool",
+    "url": "https://www.workintool.com/pt/",
+    "desc": "Um site que oferece ferramentas para o trabalho remoto."
+  },
+  {
+    "name": "Google Books",
+    "url": "https://books.google.com.br/",
+    "desc": "Um serviço do Google que procura textos completos de livros e revistas que o Google digitalizou."
+  },
+  {
+    "name": "Project Gutenberg",
+    "url": "https://www.gutenberg.org/",
+    "desc": "Um site que oferece mais de 60.000 livros eletrônicos gratuitos."
+  },
+  {
+    "name": "Cultura Acadêmica",
+    "url": "https://www.culturaacademica.com.br/",
+    "desc": "Uma editora que oferece livros acadêmicos gratuitos."
+  },
+  {
+    "name": "Openlibrary",
+    "url": "https://openlibrary.org/",
+    "desc": "Um site que oferece um catálogo de livros acessível ao público."
+  },
+  {
+    "name": "Biblioteca Digital de Obras Raras",
+    "url": "https://obrasraras.usp.br/",
+    "desc": "Um site que oferece acesso a obras raras digitalizadas."
+  },
+  {
+    "name": "Biblioteca Brasiliana",
+    "url": "https://www.brasiliana.usp.br/",
+    "desc": "Uma biblioteca que oferece acesso a obras sobre o Brasil."
+  },
+  {
+    "name": "Book Translator",
+    "url": "https://www.booktranslator.app/pt-BR/translate",
+    "desc": "Um site que oferece um serviço de tradução de livros."
+  },
+  {
+    "name": "Emugames",
+    "url": "https://www.emugames.net/",
+    "desc": "Um site que oferece jogos de emulador para download."
+  },
+  {
+    "name": "Speedtest",
+    "url": "https://www.speedtest.net/",
+    "desc": "Um site que oferece um serviço de teste de velocidade de internet."
+  },
+  {
+    "name": "Smodin",
+    "url": "https://smodin.io/",
+    "desc": "Um site que oferece um serviço de reescrita de texto."
+  },
+  {
+    "name": "Quillbot",
+    "url": "https://quillbot.com/",
+    "desc": "Um site que oferece um serviço de paráfrase de texto."
+  },
+  {
+    "name": "Similarweb",
+    "url": "https://www.similarweb.com/",
+    "desc": "Um site que oferece análises de tráfego de sites."
+  },
+  {
+    "name": "PC Builds",
+    "url": "https://pc-builds.com/pt/",
+    "desc": "Um site que oferece recomendações de construção de PC."
+  },
+  {
+    "name": "Raymarching Engine",
+    "url": "https://raymarching-engine.netlify.app/",
+    "desc": "Um site que oferece um motor de renderização de gráficos."
+  },
+  {
+    "name": "Steam Friends",
+    "url": "https://steamfriends.info/",
+    "desc": "Um site que oferece um serviço de busca de amigos no Steam."
+  },
+  {
+    "name": "Aniwave",
+    "url": "https://aniwave.to/",
+    "desc": "Um site que oferece streaming de animes."
+  },
+  {
+    "name": "Cgbookcase",
+    "url": "https://www.cgbookcase.com/",
+    "desc": "Um site que oferece texturas gratuitas para artistas 3D."
+  },
+  {
+    "name": "OpenGameArt",
+    "url": "https://opengameart.org/",
+    "desc": "Um site que oferece arte de jogos gratuitos."
   }
 ]
