@@ -8,13 +8,13 @@ function createListItem(site, list) {
 
   const siteName = document.createElement('h3');
   siteName.textContent = site.name;
-  siteName.addEventListener('click', function() {
+  siteName.addEventListener('click', function () {
     window.location.href = site.url;
   });
 
   const siteDesc = document.createElement('p');
   siteDesc.textContent = site.desc;
-  siteDesc.addEventListener('click', function() {
+  siteDesc.addEventListener('click', function () {
     window.location.href = site.url;
   });
 
@@ -47,19 +47,19 @@ fetch('sites.json')
       createListItem(site, sitesList);
     });
 
-    searchInput.addEventListener('input', function() {
+    searchInput.addEventListener('input', function () {
       const searchTerm = searchInput.value.toLowerCase();
-    
+
       const filtered = sites.filter(site => site.name.toLowerCase().startsWith(searchTerm) && /^[a-zA-Z0-9!@#\$%\^\&*\)\(+=._-\s]+$/g.test(site.name));
-    
+
       while (sitesList.firstChild) {
         sitesList.removeChild(sitesList.firstChild);
       }
-    
+
       while (filteredList.firstChild) {
         filteredList.removeChild(filteredList.firstChild);
       }
-    
+
       if (searchTerm === '') {
         sites.forEach(site => {
           createListItem(site, sitesList);
@@ -70,22 +70,9 @@ fetch('sites.json')
         });
       }
     });
-    
+
 
   })
   .catch(error => {
     console.error(error);
   });
-
-
- /*  //Fechar cabeçalho
-  window.onload = function() {
-
-    var header = document.getElementsByClassName('header');
-    var button = document.getElementById('closeBtn');
-
-    button.addEventListener('click', function() {
-        
-        header.classList.add('closed');
-    });
-}; */
