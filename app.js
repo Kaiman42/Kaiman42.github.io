@@ -49,7 +49,7 @@ fetch('sites.json')
     console.error(error);
   });
 
-  //Fechar cabeçalho
+ /*  //Fechar cabeçalho
   window.onload = function() {
 
     var header = document.getElementsByClassName('header');
@@ -59,4 +59,4 @@ fetch('sites.json')
         
         header.classList.add('closed');
     });
-};
+}; */
